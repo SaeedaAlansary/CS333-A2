@@ -1,8 +1,8 @@
 # UOB API Data Retrieval and Visualization
 
 ## Team Members
-- **Student Name 1:** Danah Alkhan  ID: 202100476
-- **Student Name 2:** Saeeda Alansari  ID: 202100476
+- **Student Name 1:** Danah Alkhan  **ID:** 202100476
+- **Student Name 2:** Saeeda Alansari  **ID:** 202100476
 - **Section:** 02
 
 ## Project Overview
