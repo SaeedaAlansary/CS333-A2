@@ -2,7 +2,7 @@
 
 ## Team Members
 - **Name 1**: Danah Alkhan Student ID: 202100476
-- **Name 2**:Saeeda Alansari Student ID:202100476 
+- **Name 2**: Saeeda Alansari Student ID:202100476 
 
 ## Project Overview
 This project fetches and displays student nationality data from the University of Bahrain (UOB) for IT bachelor's programs, using data from the Bahrain Open Data Portal.
