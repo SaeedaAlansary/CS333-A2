@@ -12,11 +12,17 @@ This project fetches and displays student nationality data from the University o
 - Responsive table design with Pico CSS.
 - Clean, commented code for readability.
 
-## How to Run
-1. Clone the repository to your local machine.
-2. Deploy `index.php` to a PHP-supported server (e.g., XAMPP or WAMP).
-3. Access the application in your browser.
+### Task 1: Data Retrieval
+- Use the provided link to fetch data from the Bahrain Open Data Portal API
+- Parse the JSON response
 
+### Task 2: Data Visualization
+- Create an HTML table to display the retrieved data
+- Use Pico CSS (or similar frameworks) for responsive design and overflow handling
+- Implement a clean, readable table layout
+
+  
 ## API Reference
 - [Bahrain Open Data Portal](https://data.gov.bh/)
+This dataset offers a comprehensive view of student demographics at the University of Bahrain, providing valuable insights into the institution's student composition and enrollment trends.
 
