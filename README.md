@@ -16,13 +16,17 @@ This project fetches and displays student nationality data from the University o
 ## Tasks
 
 ### Task 1: Data Retrieval
-- Use the provided link to fetch data from the Bahrain Open Data Portal API
-- Parse the JSON response
+- The data is fetched from the Bahrain Open Data Portal API using PHP's `file_get_contents()` function. 
+- The JSON response is parsed into a PHP array using `json_decode()`.
+- Proper error handling is implemented to ensure the application gracefully handles issues like API connectivity problems or malformed responses.
 
 ### Task 2: Data Visualization
-- Create an HTML table to display the retrieved data
-- Use Pico CSS (or similar frameworks) for responsive design and overflow handling
-- Implement a clean, readable table layout
+- The parsed data is displayed in a clean, responsive HTML table.
+- **Pico CSS** is used for styling to ensure the table is visually appealing and supports mobile responsiveness.
+- Overflow handling is implemented with a scrollable container for tables that exceed the screen width.
+- The table is structured with headers for fields like `Year`, `Semester`, `Nationality`, `Colleges`, and `Number of Students`.
+- Static content such as the description of "The Programs" column is added to maintain alignment with the project requirements.
+
 
   
 ## API Reference
