@@ -8,6 +8,11 @@
 ## Project Overview
 This project fetches and displays student nationality data from the University of Bahrain (UOB) for IT bachelor's programs, using data from the Bahrain Open Data Portal.
 
+## Tools and Frameworks
+- **PHP**: Server-side scripting for API data retrieval.
+- **Pico CSS**: Lightweight CSS framework for responsive design.
+- **HTML5**: To create the structure of the table.
+  
 ## Features
 - API data retrieval using PHP.
 - Responsive table design with Pico CSS.
@@ -26,8 +31,6 @@ This project fetches and displays student nationality data from the University o
 - Overflow handling is implemented with a scrollable container for tables that exceed the screen width.
 - The table is structured with headers for fields like `Year`, `Semester`, `Nationality`, `Colleges`, and `Number of Students`.
 - Static content such as the description of "The Programs" column is added to maintain alignment with the project requirements.
-
-
   
 ## API Reference
 - [Bahrain Open Data Portal](https://data.gov.bh/)
