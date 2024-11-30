@@ -20,5 +20,3 @@ This project fetches and displays student nationality data from the University o
 ## API Reference
 - [Bahrain Open Data Portal](https://data.gov.bh/)
 
-## License
-This project is open-source and distributed under the MIT license.
